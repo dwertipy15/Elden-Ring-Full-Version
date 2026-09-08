@@ -247,3 +247,6 @@ This repository serves as the official landing page for Elden Ring. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Elden Ring today!**
+
+---
+**Last updated:** 2026-09-08 06:48:15 UTC
