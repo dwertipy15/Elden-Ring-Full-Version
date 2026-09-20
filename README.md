@@ -249,4 +249,4 @@ This repository serves as the official landing page for Elden Ring. The software
 **Get the most recent version of Elden Ring today!**
 
 ---
-**Last updated:** 2026-09-20 13:51:21 UTC
+**Last updated:** 2026-09-20 17:12:25 UTC
